@@ -635,7 +635,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     margin: 30px 0 0 30px; } }
 
 header {
-  background: url(../img/galway.jpg) center center;
+  background: url(../img/hood.jpg) center center;
   background-size: cover; }
   @media only screen and (min-width: 220px) {
     header {
@@ -651,7 +651,7 @@ header {
     margin: 30px 30px 30px; }
     header nav a {
       margin-left: 20px;
-      color: rgba(0, 0, 0, 0.5); }
+      color: rgba(255, 255, 255, 0.5); }
       @media only screen and (min-width: 220px) {
         header nav a {
           display: none; } }
@@ -701,7 +701,7 @@ header {
     color: rgba(255, 255, 255, 0.8); }
 
 footer {
-  background: url(../img/galway.jpg) center center;
+  background: url(../img/hood_thin.jpg) center center;
   background-size: cover; }
   footer .lockup {
     padding: 50px 30px; }
@@ -713,9 +713,9 @@ footer {
       margin: 0;
       text-transform: uppercase;
       font-size: 12px;
-      color: rgba(0, 0, 0, 0.4); }
+      color: rgba(255, 255, 255, 0.4); }
     footer .lockup a {
-      color: rgba(0, 0, 0, 0.6);
+      color: rgba(255, 255, 255, 0.6);
       display: inline-block;
       margin-right: 30px; }
       footer .lockup a:hover {
@@ -741,7 +741,7 @@ footer {
       height: 180px;
       width: 180px;
       border-radius: 50%;
-      background: url(../img/android.JPG);
+      background: url(../img/face.JPG);
       margin: auto; }
     .about-lock .flip-container {
       -webkit-perspective: 1000;
